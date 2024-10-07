@@ -1,16 +1,11 @@
-# desafio_fastlocation
 
-A new Flutter project.
+# Flutter - Desenvolvimento de Sistemas Móveis e Distribuídos
+Desafio 1 - Projeto App - Fast Location
 
-## Getting Started
+## Instruções de execução do projeto:
+Abra o projeto no Android Studio >> [https://developer.android.com/studio](https://developer.android.com/studio)
++ No Android Studio abra o arquivo pubspec.yaml e clique em Pub get
++ ou no terminal e execute o comando: flutter pub get
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+![App Screenshot](https://github.com/alvarooliveira09/TrabalhoFlutterImagens/blob/main/Fast_Location.png)
